@@ -1,0 +1,16 @@
+primary-color= #378EF9
+color-white = #FFFFFF
+font-family= Roboto
+orange-color =#F68B19
+light orange bg =#FFF0E6
+border-radius= 6px
+box-shadow = 0 2px 5px 0 rgba(0,0,0,0.05)
+text-black = rgba(0,0,0,0.87);
+text-black2 = rgb(40,40,40)
+sub-header-color =rgb(114,114,114)---same with paragraphs
+on-hover-btn-= border radius is 2px
+body -bg-color =#b3d4fc
+
+
+
+#e6f1fc
